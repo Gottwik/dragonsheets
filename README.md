@@ -7,7 +7,7 @@ Pre-school worksheets.
 ## Try it now
 Give dragonsheets a try now:
 
-* [Intro to letters](https://github.com/Gottwik/dragonsheets/blob/master/bundles/basic_letters_1.pdf)
+* [Intro to letters](https://github.com/Gottwik/dragonsheets/raw/master/bundles/basic_letters_1.pdf)
 
 ## How does it work
 For each completed dragonsheet, the child gets a dragon coin:
