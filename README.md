@@ -4,6 +4,11 @@ Pre-school worksheets.
 
 ![dragonsheet a4 mockup](http://i.imgur.com/IOEXCNN.jpg)
 
+## Try it now
+Give dragonsheets a try now:
+
+* [Intro to letters](https://github.com/Gottwik/dragonsheets/raw/master/bundles/basic_letters_1.pdf)
+
 ## How does it work
 For each completed dragonsheet, the child gets a dragon coin:
 
