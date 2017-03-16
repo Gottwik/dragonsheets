@@ -11,7 +11,7 @@ function scan_folder (folder_to_scan) {
 	for (file_id in files) {
 		var file = files[file_id]
 		if (file instanceof File ){
-			if (String(file).match(/\.ai$/) && !String(file).match(/\/master\//)) {
+			if (String(file).match(/\.ai$/) && !String(file).match(/\/master\//) && !String(file).match(/\/template\//)) {
 				files_to_convert.push(file)
 			}
 		} else {
